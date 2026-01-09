@@ -22,7 +22,7 @@ Simple and user-friendly graphical interface
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/productivity-suite.git
+git clone https://github.com/LR-Hyzik07/productivity-suite.git
 cd productivity-suite
 
 2️⃣ Install Dependencies
