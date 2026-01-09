@@ -18,7 +18,7 @@ Simple and user-friendly graphical interface
 
 
 
-![Demo](assets/demo.mp4)
+![Demo](assets/demo.gif)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
